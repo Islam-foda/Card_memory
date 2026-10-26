@@ -26,7 +26,7 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [pokemon, setPokemon] = useState([]);
 
-  //example test
+  //handle the shuffle and log the clicked card
   const handleClick = (e) => {
     setPokemon(shuffle(pokemon));
     console.log(e.target.alt);
