@@ -1,15 +1,18 @@
-ul{
- display: flex;
-    list-style: none;
-    gap: 2em;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    width: 100%;
-    max-width: fit-content;
+ul {
+  display: flex;
+  list-style: none;
+  gap: 2em;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: fit-content;
 }
 li {
-    border: 1px solid #eee;
-    padding: 2em;
-    width: 5em;
+  display: inline-flex;
+  flex-direction: column;
+}
+img {
+  border: 1px solid #eee;
+  width: 10em;
 }
