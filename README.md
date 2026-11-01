@@ -1,9 +1,10 @@
 # Card Memory Game
 
-This project idea from the Odin Project.
+An interactive card memory game inspired by The Odin Project. Select a card each turn and remember which cards you've already chosen.
 
-- [TOD-Card Memory](https://www.theodinproject.com/lessons/node-path-react-new-memory-card)
+- [The Odin Project: Memory Card](https://www.theodinproject.com/lessons/node-path-react-new-memory-card)
 
-## updates ....
 
-- starting the project
+## Project updates
+
+- Build and improve the game as the project develops.
