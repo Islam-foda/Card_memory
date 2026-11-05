@@ -25,8 +25,8 @@ img {
   width: 10em;
 }
 
-.result {
-  display: flex;
+.result{
+    display: flex;
   flex-direction: column;
   justify-content: center;
   gap: 1em;
@@ -38,4 +38,5 @@ img {
   translate: 200px;
   background-color: #ffeb3b;
   border: 1px solid #eee;
-}
+  }
+  
